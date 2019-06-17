@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  MatrixCalculatorParallel.cpp
+  ApplicationController.cpp
+  lab1.cpp
+  MatrixCalculatorSequential.cpp
+b:\study\parallel-programming\lab1\lab1\matrixcalculatorsequential.cpp(97): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+b:\study\parallel-programming\lab1\lab1\matrixcalculatorsequential.cpp(100): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+b:\study\parallel-programming\lab1\lab1\matrixcalculatorsequential.cpp(104): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  All 388 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lab1.vcxproj -> B:\study\parallel-programming\lab1\x64\Release\lab1.exe
