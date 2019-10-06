@@ -1,0 +1,12 @@
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\bin\Debug\CurrencyExchangeReceiver.exe
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\bin\Debug\CurrencyExchangeReceiver.pdb
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\bin\Debug\Newtonsoft.Json.dll
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\bin\Debug\Newtonsoft.Json.xml
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\obj\Debug\CurrencyExchangeReceiver.csprojAssemblyReference.cache
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\obj\Debug\CurrencyExchangeReceiver.ReceiverForm.resources
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\obj\Debug\CurrencyExchangeReceiver.Properties.Resources.resources
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\obj\Debug\CurrencyExchangeReceiver.csproj.GenerateResource.cache
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\obj\Debug\CurrencyExchangeReceiver.csproj.CoreCompileInputs.cache
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\obj\Debug\CurrencyExchangeReceiver.csproj.CopyComplete
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\obj\Debug\CurrencyExchangeReceiver.exe
+B:\parallel-programming\lw4\CurrencyExchangeReceiver\obj\Debug\CurrencyExchangeReceiver.pdb

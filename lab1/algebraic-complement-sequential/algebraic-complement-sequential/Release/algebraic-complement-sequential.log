@@ -1,0 +1,9 @@
+﻿  algebraic-complement-sequential.cpp
+b:\study\parallel-programming\lab1\algebraic-complement-sequential\algebraic-complement-sequential\algebraic-complement-sequential.cpp(5): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+b:\study\parallel-programming\lab1\algebraic-complement-sequential\algebraic-complement-sequential\algebraic-complement-sequential.cpp(6): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода
+  1 of 426 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  algebraic-complement-sequential.vcxproj -> B:\study\parallel-programming\lab1\algebraic-complement-sequential\Release\algebraic-complement-sequential.exe

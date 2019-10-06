@@ -1,0 +1,14 @@
+E:\GITHUB\ParallelProgramming\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+E:\GITHUB\ParallelProgramming\lab3\lab3\lab3\bin\Debug\lab3.exe
+E:\GITHUB\ParallelProgramming\lab3\lab3\lab3\bin\Debug\lab3.pdb
+E:\GITHUB\ParallelProgramming\lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+E:\GITHUB\ParallelProgramming\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\GITHUB\ParallelProgramming\lab3\lab3\lab3\obj\Debug\lab3.exe
+E:\GITHUB\ParallelProgramming\lab3\lab3\lab3\obj\Debug\lab3.pdb
+B:\study\parallel-programming\lab3\lab3\lab3\obj\Debug\lab3.pdb
+B:\study\parallel-programming\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+B:\study\parallel-programming\lab3\lab3\lab3\bin\Debug\lab3.exe
+B:\study\parallel-programming\lab3\lab3\lab3\bin\Debug\lab3.pdb
+B:\study\parallel-programming\lab3\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+B:\study\parallel-programming\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+B:\study\parallel-programming\lab3\lab3\lab3\obj\Debug\lab3.exe
